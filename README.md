@@ -1,5 +1,5 @@
 <div align="center">
-<h2>👋 Hello, I'm Ahmed Yassin - AI Developer</h2>
+<h2>👋 Ahmed Yassin - AI Developer</h2>
 <img src="https://media.giphy.com/media/3o7aD4m5wS3fF3r6Xe/giphy.gif" width="200"/>
 </div>
 
